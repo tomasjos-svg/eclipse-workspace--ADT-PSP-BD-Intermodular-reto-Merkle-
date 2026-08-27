@@ -1,0 +1,14 @@
+# Configuración interna del workspace de Eclipse
+.metadata/
+
+# Archivos compilados
+**/bin/
+
+# Maven
+**/target/
+
+# Gradle
+**/build/
+
+# Logs
+*.log

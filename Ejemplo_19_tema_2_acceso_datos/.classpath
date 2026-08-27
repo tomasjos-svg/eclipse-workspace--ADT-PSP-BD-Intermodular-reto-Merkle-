@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/tomas/eclipse-workspace/Ejemplo_19_tema_2_acceso_datos/lib/jackson-annotations-2.18.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomas/eclipse-workspace/Ejemplo_19_tema_2_acceso_datos/lib/jackson-core-2.18.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomas/eclipse-workspace/Ejemplo_19_tema_2_acceso_datos/lib/jackson-databind-2.18.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomas/eclipse-workspace/Ejemplo_19_tema_2_acceso_datos/lib/jackson-dataformat-xml-2.18.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tomas/eclipse-workspace/Ejemplo_19_tema_2_acceso_datos/lib/stax2-api-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
